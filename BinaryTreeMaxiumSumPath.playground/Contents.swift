@@ -1,5 +1,3 @@
-import Foundation
-
 final class Node {
     init(_ number: Int, lhs: Node? = nil, rhs: Node? = nil) {
         self.number = number
